@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><root>
+    <monday>
+        <firstTask>
+            <done>false</done>
+            <text> </text>
+        </firstTask>
+        <secondTask>
+            <done>false</done>
+            <text> </text>
+        </secondTask>
+        <thirdTask>
+            <done>false</done>
+            <text> </text>
+        </thirdTask>
+        <fourthTask>
+            <done>false</done>
+            <text> </text>
+        </fourthTask>
+    </monday>
+    <tuesday>
+        <firstTask>
+            <done>false</done>
+            <text> </text>
+        </firstTask>
+        <secondTask>
+            <done>false</done>
+            <text> </text>
+        </secondTask>
+        <thirdTask>
+            <done>false</done>
+            <text> </text>
+        </thirdTask>
+        <fourthTask>
+            <done>false</done>
+            <text> </text>
+        </fourthTask>
+    </tuesday>
+    <wednesday>
+        <firstTask>
+            <done>false</done>
+            <text> </text>
+        </firstTask>
+        <secondTask>
+            <done>false</done>
+            <text> </text>
+        </secondTask>
+        <thirdTask>
+            <done>false</done>
+            <text> </text>
+        </thirdTask>
+        <fourthTask>
+            <done>false</done>
+            <text> </text>
+        </fourthTask>
+    </wednesday>
+    <thirsday>
+        <firstTask>
+            <done>false</done>
+            <text> </text>
+        </firstTask>
+        <secondTask>
+            <done>false</done>
+            <text> </text>
+        </secondTask>
+        <thirdTask>
+            <done>false</done>
+            <text> </text>
+        </thirdTask>
+        <fourthTask>
+            <done>false</done>
+            <text> </text>
+        </fourthTask>
+    </thirsday>
+    <friday>
+        <firstTask>
+            <done>false</done>
+            <text> </text>
+        </firstTask>
+        <secondTask>
+            <done>false</done>
+            <text> </text>
+        </secondTask>
+        <thirdTask>
+            <done>false</done>
+            <text> </text>
+        </thirdTask>
+        <fourthTask>
+            <done>false</done>
+            <text> </text>
+        </fourthTask>
+    </friday>
+    <saturday>
+        <firstTask>
+            <done>false</done>
+            <text> </text>
+        </firstTask>
+        <secondTask>
+            <done>false</done>
+            <text> </text>
+        </secondTask>
+        <thirdTask>
+            <done>false</done>
+            <text> </text>
+        </thirdTask>
+        <fourthTask>
+            <done>false</done>
+            <text> </text>
+        </fourthTask>
+    </saturday>
+    <sunday>
+        <firstTask>
+            <done>false</done>
+            <text> </text>
+        </firstTask>
+        <secondTask>
+            <done>false</done>
+            <text> </text>
+        </secondTask>
+        <thirdTask>
+            <done>false</done>
+            <text> </text>
+        </thirdTask>
+        <fourthTask>
+            <done>false</done>
+            <text> </text>
+        </fourthTask>
+    </sunday>
+</root>
